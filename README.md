@@ -8,7 +8,7 @@ Here are some of the places I've worked.
 
 Where | What | When
 --- | --- | ---
-[Immers Space](https://web.immers.space) | I'm a Syndic, an equal partner with all the other workers. We do contract WebXR work and use the proceeds to fund our [open-source federated social network for immersive worlds](https://github.com/immers-space/immers) | 2021-present
+[Immers Space](https://web.immers.space) | I'm a Syndic, an equal partner with all the other worker-owners. We do contract WebXR work and use the proceeds to fund our [open-source federated social network for immersive worlds](https://github.com/immers-space/immers) | 2021-present
 [Frame](https://learn.framevr.io) | Contractor working on a little bit of everything, 3D interactivity and VR support in BabylonJS, 2D user interface in Vue, identity and access management in NodeJS, and social features | 2021-present
 Lumere | Built a custom data visualization framework and microservice using JavaScript, Python, and Vega to enable the data science team to deliver interactive data visualization products to users in the healthcare sector  | 2019-2021
 3Data | Built a custom 3D / WebXR data visualization engine using A-frame, three.js, and D3 that implemented Leland Wilkinson's Grammar of Graphics theoretical framework. Helped build an A-Frame WebRTC app for realtime collaboration around the data visualizations  | 2018-2019
@@ -32,7 +32,7 @@ Here are some of the things I've made
   </dd>
   <dt><a href="https://nice.freetreasures.shop">Nice Free Treasures Shop</a></dt>
   <dd>
-    A satire of NFTs and a free verifiable collectible avatar generator for Immers Space, Mastodon, and Twitter</br>
+    A <strong>satire</strong> of NFTs and a free verifiable collectible avatar generator for Immers Space, Mastodon, and Twitter</br>
     <a href="https://nice.freetreasures.shop"><img src="https://user-images.githubusercontent.com/10034859/217420117-5c7eb48d-6ae6-4f33-8b52-20774f8818c2.png"></a>
     <br /><a href="https://github.com/immers-space/nice-free-treasures">Source code</a>
   </dd>
