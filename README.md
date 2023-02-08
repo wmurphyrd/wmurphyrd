@@ -21,7 +21,7 @@ Here are some of the things I've made
 <dl>
   <dt>Super Hands</dt>
   <dd>
-    <a href="https://github.com/c-frame/aframe-super-hands-component"><img src="https://img.shields.io/github/stars/c-frame/aframe-super-hands-component?style=social"></a><br />
+    <a href="https://github.com/c-frame/aframe-super-hands-component"><img src="https://img.shields.io/npm/dw/super-hands"> <img src="https://img.shields.io/github/stars/c-frame/aframe-super-hands-component?style=social"></a><br />
     Interactivity framework for A-Frame that abstracts different user inputs (mouse, touch, VR laser pointer, VR tracked controllers) into composable gestures like hover and grab.<br />
     <a href="https://github.com/c-frame/aframe-super-hands-component"><img src="https://user-images.githubusercontent.com/10034859/217418922-76c64347-878e-4912-92d6-a26394fe0b05.gif" alt="demo reel of interacting wth boxes in 3d scenes using super-hands on mobile, desktop, and VR"></a>
    </dd>
