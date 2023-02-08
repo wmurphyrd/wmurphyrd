@@ -19,8 +19,9 @@ Academy of Nutrition and Dietetics | Conducted clinical research into nutrition 
 Here are some of the things I've made
 
 <dl>
-  <dt><a href="https://github.com/c-frame/aframe-super-hands-component">Super Hands</dt>
+  <dt>Super Hands</dt>
   <dd>
+    <a href="https://github.com/c-frame/aframe-super-hands-component"><img src="https://img.shields.io/github/stars/c-frame/aframe-super-hands-component?style=social"></a><br />
     Interactivity framework for A-Frame that abstracts different user inputs (mouse, touch, VR laser pointer, VR tracked controllers) into composable gestures like hover and grab.<br />
     <a href="https://github.com/c-frame/aframe-super-hands-component"><img src="https://user-images.githubusercontent.com/10034859/217418922-76c64347-878e-4912-92d6-a26394fe0b05.gif" alt="demo reel of interacting wth boxes in 3d scenes using super-hands on mobile, desktop, and VR"></a>
    </dd>
@@ -38,10 +39,19 @@ Here are some of the things I've made
   </dd>
   <dt><a href="https://a.gup.pe">Guppe Groups</a></dt>
   <dd>
+    <a href="https://github.com/immers-space/guppe"><img src="https://img.shields.io/github/stars/immers-space/guppe?style=social"></a><br />
     A federated social groups app using NodeJS and ActivityPub that helps people on Mastodon and other ActivityPub apps connect around shared interests.
-    <br /><a href="https://github.com/immers-space/guppe">Source code</a>
   </dd>
-  
+  <dt>activitypub-express</dt>
+  <dd>
+    <a href="https://github.com/immers-space/activitypub-express"><img src="https://img.shields.io/github/stars/immers-space/activitypub-express?style=social"></a><br />
+    Modular implementation of the ActivityPub decentralized social networking protocol with >90% test coverage, written for NodeJS as ExpressJS middleware.
+  <dd>
+  <dt><a href="https://immers.space/auth/login">Immers Server</a></dt>
+  <dd>
+    <a href="https://github.com/immers-space/immers"><img src="https://img.shields.io/github/stars/immers-space/immers?style=social"></a><br />
+    ActivityPub federated social media server for the metaverse. Like a decentralized Steam friends list for virtual worlds on the Web.
+   </dd>
 </dl>
 
 ## Let's work together 🤝
