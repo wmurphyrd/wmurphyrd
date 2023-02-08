@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-Thanks for stopping by. My name is Will, I use he/him pronouns, and I'm a freelance developer who loves working on Immersive Web (WebXR), federated social networks (ActivityPub), and data visualization.
+Thanks for stopping by. My name is Will, I use he/him pronouns, and I'm a freelance senior developer who loves working on Immersive Web (WebXR), federated social networks (ActivityPub), and data visualization with 6 years of experience in 3D Web development.
 
 ### Jobs
 
@@ -53,6 +53,11 @@ Here are some of the things I've made
     ActivityPub federated social media server for the metaverse. Like a decentralized Steam friends list for virtual worlds on the Web.
    </dd>
 </dl>
+
+### Other skills
+
+* I'm the guy on the team everyone comes to with their really difficult bugs
+* I believe anyone can be a great programmer and really enjoy sharing knowledge and mentoring junior devs
 
 ## Let's work together 🤝
 
