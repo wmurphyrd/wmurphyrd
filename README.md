@@ -47,7 +47,7 @@ Here are some of the things I've made
     <a href="https://github.com/immers-space/activitypub-express"><img src="https://img.shields.io/github/stars/immers-space/activitypub-express?style=social"></a><br />
     Modular implementation of the ActivityPub decentralized social networking protocol with >90% test coverage, written for NodeJS as ExpressJS middleware.
   <dd>
-  <dt><a href="https://immers.space/auth/login">Immers Server</a></dt>
+  <dt><a href="https://immers.space/u/datatitian/Outbox">Immers Server</a></dt>
   <dd>
     <a href="https://github.com/immers-space/immers"><img src="https://img.shields.io/github/stars/immers-space/immers?style=social"></a><br />
     ActivityPub federated social media server for the metaverse. Like a decentralized Steam friends list for virtual worlds on the Web.
