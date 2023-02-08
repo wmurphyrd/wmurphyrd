@@ -9,9 +9,9 @@ Here are some of the places I've worked.
 Where | What | When
 --- | --- | ---
 [Immers Space](https://web.immers.space) | I'm a Syndic, an equal partner with all the other workers. We do contract WebXR work and use the proceeds to fund our [open-source federated social network for immersive worlds](https://github.com/immers-space/immers) | 2021-present
-[Frame](https://learn.framevr.io) | Contractor working on a little bit of everything, 3D interacivity and VR support in BabylonJS, 2D user interface in Vue, identity and access mangement in NodeJS, and social features | 2021-present
+[Frame](https://learn.framevr.io) | Contractor working on a little bit of everything, 3D interactivity and VR support in BabylonJS, 2D user interface in Vue, identity and access management in NodeJS, and social features | 2021-present
 Lumere | Built a custom data visualization framework and microservice using JavaScript, Python, and Vega to enable the data science team to deliver interactive data visualization products to users in the healthcare sector  | 2019-2021
-3Data | Built a custom 3D / WebXR data visualization engine using A-frame, three.js, and D3 that implemented Leland Wilkinson's Grammar of Graphics theoretical framework. Helped build an A-Frame WebRTC app for realtime collaboration around the data visualiations  | 2018-2019
+3Data | Built a custom 3D / WebXR data visualization engine using A-frame, three.js, and D3 that implemented Leland Wilkinson's Grammar of Graphics theoretical framework. Helped build an A-Frame WebRTC app for realtime collaboration around the data visualizations  | 2018-2019
 Academy of Nutrition and Dietetics | Conducted clinical research into nutrition quality of care and served as product manager for the creation of a web-based data entry portal for research and healthcare data | 2012-2018
 
 ### Projects
@@ -22,7 +22,7 @@ Here are some of the things I've made
   <dt><a href="https://github.com/c-frame/aframe-super-hands-component">Super Hands</dt>
   <dd>
     Interactivity framework for A-Frame that abstracts different user inputs (mouse, touch, VR laser pointer, VR tracked controllers) into composable gestures like hover and grab.<br />
-    <a href="https://github.com/c-frame/aframe-super-hands-component"><img src="https://user-images.githubusercontent.com/10034859/217418922-76c64347-878e-4912-92d6-a26394fe0b05.gif" alt="demo reel of intracting wth boxes in 3d scenes using super-hands on mobile, desktop, and VR"></a>
+    <a href="https://github.com/c-frame/aframe-super-hands-component"><img src="https://user-images.githubusercontent.com/10034859/217418922-76c64347-878e-4912-92d6-a26394fe0b05.gif" alt="demo reel of interacting wth boxes in 3d scenes using super-hands on mobile, desktop, and VR"></a>
    </dd>
   <dt><a href="https://vreign.space">Virtual Reign Social Immersive Chess</a></dt>
   <dd>
@@ -32,7 +32,7 @@ Here are some of the things I've made
   </dd>
   <dt><a href="https://nice.freetreasures.shop">Nice Free Treasures Shop</a></dt>
   <dd>
-    A satire of NFTs and a free verifiable collectibile avatar generator for Immers Space, Mastodon, and Twitter</br>
+    A satire of NFTs and a free verifiable collectible avatar generator for Immers Space, Mastodon, and Twitter</br>
     <a href="https://nice.freetreasures.shop"><img src="https://user-images.githubusercontent.com/10034859/217420117-5c7eb48d-6ae6-4f33-8b52-20774f8818c2.png"></a>
     <br /><a href="https://github.com/immers-space/nice-free-treasures">Source code</a>
   </dd>
@@ -46,4 +46,4 @@ Here are some of the things I've made
 
 ## Let's work together 🤝
 
-I'm avaiable as a contractor and currently taking new clients. Contact me at william@immers.space
+I'm available as a contractor and currently taking new clients. Contact me at william@immers.space
